@@ -11,7 +11,6 @@ npm install
 ### Compiles and hot-reloads for development
 
 ```bash
-cd vue-weather-widget
 npm run serve
 ```
 
