@@ -19,7 +19,7 @@ npm run serve
 
 The widget can be embedded with the custom tag `<weather></weather>`
 
-![](https://raw.githubusercontent.com/GiorgioBaldelli/vue-weather-widget/master/preview.gif)
+![](https://github.com/GiorgioBaldelli/weather-app/blob/master/preview.gif?raw=true)
 
 ## Known Issues
 - Only 24-hour time range available
